@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy>=2
+psycopg2-binary
+pydantic>=2
+python-dotenv
+PyJWT
+pandas
+openai
